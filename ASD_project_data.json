@@ -1,0 +1,1 @@
+{"gender": {"m": 0, "f": 1}, "jaundice": {"yes": 1, "no": 0}, "Family_mem_with_ASD": {"yes": 1, "no": 0}, "columns": ["A1", "A2", "A3", "A4", "A5", "A6", "A7", "A8", "A9", "A10", "age", "gender", "jaundice", "Family_mem_with_ASD", "Qchat Score"]}
